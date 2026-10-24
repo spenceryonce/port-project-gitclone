@@ -2,4 +2,4 @@
 
 edits made direct from my iPhone
 
-eduts made inside a new branch shouldnt affect main.
+EDITAS made inside a new branch should NOT affect main.
